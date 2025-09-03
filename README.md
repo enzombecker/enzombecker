@@ -20,7 +20,7 @@ Sou curioso e gosto de aprender coisas novas, especialmente nas áreas de **hard
   ![Elden Ring](https://upload.wikimedia.org/wikipedia/en/b/b9/Elden_Ring_Box_art.jpg)  
 
 - Futebol e videogames: *FIFA*  
-   ![EA SPORTS FC 26](https://via.placeholder.com/300 "EA SPORTS FC 26")
+   ![EA SPORTS FC 26](https://cdn2.unrealengine.com/ea-sports-fc-24-key-art-16x9-3840x2160-3840x2160-93c8b2d2d6f4.jpg)  
   
 - Torcedor do **São Paulo FC** ⚽❤️  
  
