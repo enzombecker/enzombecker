@@ -20,10 +20,10 @@ Sou curioso e gosto de aprender coisas novas, especialmente nas áreas de **hard
   ![Elden Ring](https://upload.wikimedia.org/wikipedia/en/b/b9/Elden_Ring_Box_art.jpg)  
 
 - Futebol e videogames: *FIFA*  
-  ![FIFA 23](https://upload.wikimedia.org/wikipedia/en/f/f9/FIFA_23_Cover.jpg)  
-
+   ![EA SPORTS FC 26](https://via.placeholder.com/300 "EA SPORTS FC 26")
+  
 - Torcedor do **São Paulo FC** ⚽❤️  
-  ![São Paulo FC](https://upload.wikimedia.org/wikipedia/commons/1/10/S%C3%A3o_Paulo_Futebol_Clube.png)
+ 
 - goasto de jogar  futebol no tempo livre   
 
 ---
