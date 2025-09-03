@@ -10,15 +10,17 @@ Sou curioso e adoro aprender, especialmente sobre **hardware, programação e in
 - **FPS**: *Rainbow Six Siege*  
   ![Rainbow Six Siege](https://upload.wikimedia.org/wikipedia/en/2/2c/Rainbow_Six_Siege.jpg)
 
+- **FPS**: *Call of Duty*  
+  ![Call of Duty Modern Warfare II](https://upload.wikimedia.org/wikipedia/en/6/65/Call_of_Duty_MWII_cover_art.jpg)
+
 - **Soulslike**: *Dark Souls III*  
   ![Dark Souls III](https://upload.wikimedia.org/wikipedia/en/b/bb/Dark_Souls_III_cover_art.jpg)
 
-- **Futebol**: *EA SPORTS FC 26*  
-  ![EA SPORTS FC 26](https://images.instant-gaming.com/cover/650x650/19691.jpg)
+- **Futebol**: *EA SPORTS FC 24* (substituindo temporariamente o FC 26, que ainda não tem link estável no Wikimedia)  
+  ![EA SPORTS FC 24](https://upload.wikimedia.org/wikipedia/en/f/f8/EA_Sports_FC_24_cover.jpg)
 
-- **Torço pro São Paulo FC** ⚽❤️
-- jogo bola no tempo livre
-  
+- **Torço pro São Paulo FC** ⚽❤️  
+- jogo futebol no tempo livre 
 ---
 
 ### 🚀 Objetivos
@@ -27,4 +29,4 @@ Sou curioso e adoro aprender, especialmente sobre **hardware, programação e in
 - Criar projetos práticos para desenvolver minhas habilidades  
 - Futuramente, trabalhar na área de **tecnologia**
 
- 
+
