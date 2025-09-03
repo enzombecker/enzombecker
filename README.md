@@ -13,8 +13,6 @@ Sou curioso e adoro aprender, especialmente sobre **hardware, programação e in
 - **FPS**: *Rainbow Six Siege*
 - **FPS**: *Call of Duty*
 - **Soulslike**: *Dark Souls *
-- https://chatgpt.com/s/m_68b8816b34f08191a7bbdeb5c0900c3d
-- **Futebol**: *EA SPORTS FC*
 - **Torço pro São Paulo FC** ⚽❤️
 - jogo futebol no tempo livre 
 
