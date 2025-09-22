@@ -1,5 +1,6 @@
 ![.](banner.jpg)
-
+<h1 aling="center"> tecnico em informatica</h1>
+<h3 aling="center">  aprendendo sobre TI
 
 ## 👋 Eu sou o Enzo Mesquita Becker
 
