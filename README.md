@@ -1,3 +1,6 @@
+![.](banner.jpg)
+
+
 ## 👋 Eu sou o Enzo Mesquita Becker
 
 ![Profile views](https://komarev.com/ghpvc/?username=enzombecker)
