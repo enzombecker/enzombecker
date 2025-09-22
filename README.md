@@ -1,7 +1,3 @@
-
-![banner](https://github.com/user-attachments/assets/aeebc01a-e483-4f61-b745-c6410fa38fe9)
-
-
 ## 👋 Eu sou o Enzo Mesquita Becker
 
 ![Profile views](https://komarev.com/ghpvc/?username=enzombecker)
