@@ -4,6 +4,7 @@
 
 ## 👋 Eu sou o Enzo Mesquita Becker
 
+![GitHub License](https://img.shields.io/github/license/enzombecker/lab-redes01)
 ![Profile views](https://komarev.com/ghpvc/?username=enzombecker)
 ![Total stars](https://img.shields.io/github/stars/enzombecker?style=social)
 
